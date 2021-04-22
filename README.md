@@ -30,7 +30,7 @@
 - Clone este repositório
 
 ```
-> git clone https://github.com/prenato84/ignite-conceitos-nodejs
+> git clone https://github.com/DericksonLossIT/rentalx/tree/master
 ```
 
 - Navegue até o diretório principal do projeto
